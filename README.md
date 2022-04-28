@@ -4,3 +4,4 @@
 <i>majoring Computer Science @ KNOU from 2019<br>
   INTP-INTJ</i><p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sallyrideauto&show_icons=true&theme=rose_pine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallyrideauto)](https://github.com/Sallyrideauto/github-readme-stats)
