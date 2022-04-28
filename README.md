@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=ffffff"> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff"> <img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=ffffff"></p>
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sallyrideauto&count_private=true&show_icons=true&theme=rose_pine)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallyrideauto&exclude_repo=Sallyride.github.io&layout=compact)](https://github.com/Sallyrideauto/github-readme-stats) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=riru16)](https://solved.ac/riru16)</div>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=riru16)](https://solved.ac/riru16) </div>
