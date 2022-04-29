@@ -2,7 +2,7 @@
   <h1>Harris Hyesu Lee</h1>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSallyrideauto%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/Sallyrideauto)<br>
-  <a href="https://www.instagram.com/varsity_sally/"><img src="https://img.shields.io/badge/Instagram-7D4E57?style=flat-square&logo=Instagram&logoColor=ffffff"></a> <a href="https://www.instagram.com/varsity_sally/"><img src="https://img.shields.io/badge/Tistory-6E8894?style=flat-square&logo=Telegraph&logoColor=ffffff"></a> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"><p>
+  <a href="https://www.instagram.com/varsity_sally/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"></a> <a href="https://varsity2023sally.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6E8894?style=flat-square&logo=Telegraph&logoColor=ffffff"></a> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"><p>
   <i>majoring Computer Science @ KNOU from 2019<br>
     INTP-INTJ</i><p>
   <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=ffffff"> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=ffffff"> <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=ffffff"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff"><br>
