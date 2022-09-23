@@ -8,6 +8,5 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sallyrideauto&count_private=true&show_icons=true&theme=material-palenight)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallyrideauto&exclude_repo=Sallyride.github.io&layout=compact)](https://github.com/Sallyrideauto/github-readme-stats)<br>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riru16)](https://solved.ac/riru16)<br>
-<img src="http://mazandi.herokuapp.com/api?handle=riru16&theme=dark"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riru16)](https://solved.ac/riru16) <img src="http://mazandi.herokuapp.com/api?handle=riru16&theme=dark"/>
 </div>
