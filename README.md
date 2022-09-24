@@ -6,5 +6,6 @@
   <i>majoring Computer Science @ KNOU from 2019<br>
     INTP-INTJ</i><p>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riru16)](https://solved.ac/riru16) <img src="http://mazandi.herokuapp.com/api?handle=riru16&theme=dark"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riru16)](https://solved.ac/riru16)<p>
+ <img src="http://mazandi.herokuapp.com/api?handle=riru16&theme=dark"/>
 </div>
