@@ -9,4 +9,13 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riru16)](https://solved.ac/riru16)<p>
  <img src="http://mazandi.herokuapp.com/api?handle=riru16&theme=dark"/><p>
  [![](https://banner.codetree.ai/v1/banner/riru16)](https://www.codetree.ai/profiles/riru16)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Sallyrideauto"
+  width="600"
+  height="300"
+/>
+</a>
+ 
 </div>
